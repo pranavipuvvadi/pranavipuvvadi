@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @pranavipuvvadi
-- 👀 I’m interested in machine learning and hardware projects related to arduino 
-- 🌱 I’m currently learning machine learning 
-
-
-<!---
-pranavipuvvadi/pranavipuvvadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The water quality prediction system detects the potability of water by recording the Ph and turbidity of the water. The data obtained is manually given as input in the machine learning algorithm which determines the potability of the water.
